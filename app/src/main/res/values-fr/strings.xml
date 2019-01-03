@@ -39,6 +39,8 @@
     <string name="download">"Téléchargement"</string>
     <string name="downloaded">"Téléchargé"</string>
     <string name="downloading">"Téléchargement en cours …"</string>
+    <string name="paused">"Téléchargement en pause …"</string>
+
     <string name="download_already_downloaded">"La mise à jour a déjà été téléchargée et est prête à être installée."</string>
     <string name="download_complete">"Téléchargement terminé"</string>
     <string name="download_complete_notification">"Téléchargement terminé. Appuyez pour commencer l'installation."</string>
@@ -46,21 +48,16 @@
     <string name="download_error">"Erreur de téléchargement"</string>
     <string name="download_error_close">"Fermer"</string>
     <string name="download_error_corrupt">"Le fichier de mise à jour est endommagé ! Essayez de le télécharger à nouveau."</string>
-    <string name="download_error_directory">"Il semblerait qu'il n'y ait pas de place disponible sur votre périphérique. Si vous avez une carte SD assurez-vous que votre périphérique ne soit pas connecté à un ordinateur et que la carte SD fonctionne."</string>
     <string name="download_error_network">"Une erreur réseau s'est produite pendant le téléchargement de la mise à jour. Assurez vous que votre connexion Internet fonctionne et réessayez de télécharger la mise à jour."</string>
     <string name="download_error_retry">"Réessayer"</string>
-    <string name="download_error_sd_card">"Il n'y a pas de carte SD présente dans votre périphérique. Veuillez en insérer une et essayez de télécharger la mise à jour à nouveau."</string>
     <string name="download_error_storage">"Il n'y a pas assez d'espace disponible sur votre périphérique pour télécharger la mise à jour. Supprimez quelques fichiers et réessayez."</string>
     <string name="download_failed">"Le téléchargement a échoué"</string>
     <string name="download_in_background">Le téléchargement a commencé</string>
     <string name="download_oxygen_os">"Version d'Oxygen OS"</string>
-    <string name="download_paused_unknown">"Le téléchargement est en pause pour une raison inconnue. Essayez de retélécharger la mise à jour."</string>
     <string name="download_pending">"Le téléchargement va bientôt commencer …"</string>
     <string name="download_permissions">"Cliquez sur Télécharger à nouveau pour télécharger la mise à jour."</string>
     <string name="download_notification_error_network">"Erreur réseau. Vérifiez votre connexion et réessayez."</string>
     <string name="download_notification_error_storage_full">"Espace de stockage insuffisant."</string>
-    <string name="download_notification_error_storage_not_found">"Déconnectez votre périphérique de votre ordinateur et réessayez."</string>
-    <string name="download_notification_error_sd_card_missing">"Insérez une carte SD et réessayez."</string>
     <string name="download_notification_error_corrupt">"La vérification du fichier a échouée. Vérifiez votre connexion et réessayez."</string>
     <string name="download_progress_text_hours_remaining">"%1$d%%, environ %2$d heures restantes"</string>
     <string name="download_progress_text_less_than_a_minute_remaining">"%1$d%%, moins d'une minute restante"</string>
@@ -76,8 +73,6 @@
     <string name="download_verifying_error">"Le fichier est endommagé"</string>
     <string name="download_verifying_start">"Le téléchargement va maintenant être vérifié …"</string>
     <string name="download_waiting_for_network">"En attente d'une connexion réseau …"</string>
-    <string name="download_waiting_for_wifi">"En attente d'une connexion Wi-Fi"</string>
-    <string name="download_will_retry_soon">"Le téléchargement va bientôt reprendre …"</string>
 
     <!-- Settings strings -->
     <string name="settings">"Réglages"</string>
