@@ -5,69 +5,69 @@
     <string name="launcher_app_name">Oxygen Updater</string>
 
     <!-- Update information strings-->
-    <string name="update">Update</string>
-    <string name="update_information_close">Close</string>
-    <string name="update_information_description_not_available">There is no official information about the new features this update provides. Usually, such an update provides bug fixes, performance enhancements, and / or critical security updates for your device.</string>
-    <string name="update_information_file_name">File name: %1$s</string>
-    <string name="update_information_for">for</string>
-    <string name="update_information_header">Update</string>
-    <string name="update_information_header_short">Update</string>
-    <string name="update_information_installed_update">The latest system update is:</string>
-    <string name="update_information_last_checked_on">Last checked on: %1$s</string>
-    <string name="update_information_latest_available_update">A new system update is available:</string>
-    <string name="update_information_no_update_data_available">No update information is available.</string>
-    <string name="update_information_oxygen_os_version">Oxygen OS Version: %1$s</string>
-    <string name="update_information_system_is_up_to_date">Your system is up to date.</string>
-    <string name="update_information_unknown_update_name">Unnamed update for %1$s</string>
-    <string name="update_information_version">&#160;version:</string>
-    <string name="update_information_view_update_information">View update information</string>
+    <string name="update">تحديث</string>
+    <string name="update_information_close">إغلاق</string>
+    <string name="update_information_description_not_available">لا توجد معلومات رسمية حول الميزات الجديدة التي يوفرها هذا التحديث. عادةً يوفر هذا التحديث إصلاحات للأخطاء وتحسينات في الأداء و / أو تحديثات أمان مهمة لجهازك.</string>
+    <string name="update_information_file_name">اسم الملف: %1$s</string>
+    <string name="update_information_for">لـ</string>
+    <string name="update_information_header">تحديث</string>
+    <string name="update_information_header_short">تحديث</string>
+    <string name="update_information_installed_update">آخر تحديث للنظام:</string>
+    <string name="update_information_last_checked_on">آخر تحقق: %1$s</string>
+    <string name="update_information_latest_available_update">متوفر تحديث للنظام:</string>
+    <string name="update_information_no_update_data_available">لا توجد معلومات متاحة حول التحديث.</string>
+    <string name="update_information_oxygen_os_version">إصدار Oxygen OS: %1$s</string>
+    <string name="update_information_system_is_up_to_date">نظامك محدّث.</string>
+    <string name="update_information_unknown_update_name">تحديث مجهول لـ %1$s</string>
+    <string name="update_information_version">&#160;الإصدار:</string>
+    <string name="update_information_view_update_information">مشاهدة معلومات التحديث</string>
 
     <!-- Server status warning strings -->
-    <string name="server_status_error">Some features do not work.</string>
-    <string name="server_status_unreachable">The server can\'t be reached. Try refreshing the page.</string>
-    <string name="server_status_warning">Some features may not work properly.</string>
+    <string name="server_status_error">بعض الميزات لا تعمل.</string>
+    <string name="server_status_unreachable">لا يمكن الوصول إلى الخادم. حاول تحديث الصفحة.</string>
+    <string name="server_status_warning">قد لا تعمل بعض الميزات بشكل صحيح.</string>
 
     <!-- New app version message strings -->
-    <string name ="new_app_version">App update available! Version &lt;a href="https://play.google.com/store/apps/details?id=com.arjanvlek.oxygenupdater">%1$s&lt;/a> has been released!</string>
+    <string name ="new_app_version">تحديث التطبيق متاح! الإصدار &lt;a href="https://play.google.com/store/apps/details?id=com.arjanvlek.oxygenupdater">%1$s&lt;/a> has been released!</string>
 
     <!-- Date and time strings -->
     <string name="time_at">at</string>
-    <string name="time_today">Today</string>
-    <string name="time_yesterday">Yesterday</string>
+    <string name="time_today">اليوم</string>
+    <string name="time_yesterday">الأمس</string>
 
     <!-- Downloader strings-->
-    <string name="download">Download</string>
-    <string name="downloaded">Downloaded</string>
-    <string name="downloading">Downloading…</string>
-    <string name="paused">Paused</string>
+    <string name="download">تحميل</string>
+    <string name="downloaded">تم التحميل</string>
+    <string name="downloading">جارٍ التحميل</string>
+    <string name="paused">متوقف</string>
 
-    <string name="download_already_downloaded">The update was already downloaded. It is ready to get installed.</string>
-    <string name="download_complete">Download complete</string>
-    <string name="download_complete_notification">Download complete. Tap to start the installation.</string>
+    <string name="download_already_downloaded">تم تنزيل التحديث بالفعل. وهو جاهز للتثبيت.</string>
+    <string name="download_complete">اكتمل التحميل</string>
+    <string name="download_complete_notification">تم التحميل. اضغط لبدء التثبيت.</string>
 
     <string name="download_description">Oxygen Updater</string>
 
-    <string name="download_error">Download Error</string>
-    <string name="download_error_close">CLOSE</string>
-    <string name="download_error_corrupt">The downloaded update file is damaged! Please try downloading it again.</string>
-    <string name="download_error_network">A network error occurred while downloading the update. The download will resume automatically.</string>
-    <string name="download_error_server">A server error occurred while downloading the update. Please try downloading the update again.</string>
-    <string name="download_error_internal">Unfortunately, a technical error occurred while downloading the update. Try downloading it again. If this keeps occurring, please contact the developer of this app for assistance.</string>
-    <string name="download_error_retry">RETRY</string>
-    <string name="download_error_resume">RESUME</string>
-    <string name="download_error_storage">There is insufficient storage space available on your device to download the update. Please remove some files and try downloading it again.</string>
+    <string name="download_error">خطأ في التحميل</string>
+    <string name="download_error_close">إغلاق</string>
+    <string name="download_error_corrupt">ملف التحديث الذي تم تنزيله تالف! الرجاء محاولة تنزيله مرة أخرى.</string>
+    <string name="download_error_network">حدث خطأ في الشبكة أثناء تنزيل التحديث. سيتم استئناف التنزيل تلقائيًا.</string>
+    <string name="download_error_server">حدث خطأ في الخادم أثناء تنزيل التحديث. الرجاء محاولة تنزيل التحديث مرة أخرى.</string>
+    <string name="download_error_internal">للأسف، حدث خطأ أثناء تنزيل التحديث. حاول تنزيله مرة أخرى. إذا استمرت المشكلة ، فيرجى الاتصال بمطوّر هذا التطبيق للحصول على المساعدة.</string>
+    <string name="download_error_retry">إعادة المحاولة</string>
+    <string name="download_error_resume">استئناف</string>
+    <string name="download_error_storage">لا تتوفر مساحة تخزين كافية على جهازك لتنزيل التحديث. الرجاء إزالة بعض الملفات ومحاولة تنزيلها مرة أخرى.</string>
     
-    <string name="download_failed">Download failed</string>
-    <string name="download_in_background">Oxygen Updater is running in the background</string>
-    <string name="download_oxygen_os">Oxygen OS Version</string>
-    <string name="download_pending">Your download will start soon…</string>
-    <string name="download_permissions">Tap Download again to download the update.</string>
+    <string name="download_failed">فشل التحميل</string>
+    <string name="download_in_background">Oxygen Updater يتم تشغيله بالخلفية</string>
+    <string name="download_oxygen_os">Oxygen OS إصدار</string>
+    <string name="download_pending">سيبدأ التحميل قريبًا...</string>
+    <string name="download_permissions">انقر تحميل مرة أخرى لتحميل التحديث.</string>
 
-    <string name="download_notification_error_network">Download paused due to lost connection. Will resume soon.</string>
-    <string name="download_notification_error_server">Server error while downloading. Please restart the download.</string>
-    <string name="download_notification_error_internal">Technical error while downloading. Restart the download or contact support.</string>
-    <string name="download_notification_error_storage_full">Insufficient storage space.</string>
-    <string name="download_notification_error_corrupt">File verification failed. Check your connection and try again.</string>
+    <string name="download_notification_error_network">تم إيقاف التحميل مؤقتًا بسبب الاتصال المفقود. سوف يُستأنف قريبا.</string>
+    <string name="download_notification_error_server">خطأ في الخادم أثناء التحميل. يرجى إعادة التحميل.</string>
+    <string name="download_notification_error_internal">خطأ فني أثناء التنزيل. أعد تشغيل التنزيل أو اتصل بالدعم.</string>
+    <string name="download_notification_error_storage_full">مساحة التخزين غير كافية.</string>
+    <string name="download_notification_error_corrupt">فشل التحقق من الملف. تحقق من الاتصال وحاول مرة أخرى.</string>
 
     <string name="download_progress_text_hours_remaining">%1$d%%, about %2$d hours remaining</string>
     <string name="download_progress_text_less_than_a_minute_remaining">%1$d%%, less than a minute remaining</string>
